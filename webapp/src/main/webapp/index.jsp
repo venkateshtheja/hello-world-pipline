@@ -1,4 +1,4 @@
-<h1> Hello, Namaskara Gaandu's welcome to G world  !!! </h1>
-<h1> psp madve yavaglo !!! </h1>
+<h1> Hello, Namaskara  world  !!! </h1>
+<h1> namaste india !!! </h1>
 
 
